@@ -1,0 +1,102 @@
+Month,Region,Country,Item Type,Sales Channel,Order Priority,Order ID, Units Sold, Unit Price, Unit Cost, Total Revenue
+Apr-11,Sub-Saharan Africa,Angola,Household,Offline,M,135425221,4187,668,503,2798046
+Apr-12,Sub-Saharan Africa,Kenya,Vegetables,Online,L,827844560,6457,154,91,994765
+Apr-14,Sub-Saharan Africa,Djibouti,Cosmetics,Offline,H,259353148,7215,437,263,3154398
+Apr-15,Sub-Saharan Africa,Cameroon,Beverages,Offline,C,519820964,5430,47,32,257654
+Apr-16,Sub-Saharan Africa,Comoros,Cereal,Offline,H,902102267,962,206,117,197883
+Aug-10,Australia and Oceania,Fiji,Clothes,Offline,C,647876489,9905,109,36,1082418
+Aug-13,Australia and Oceania,Samoa ,Cosmetics,Online,H,670854651,9654,437,263,4220729
+Aug-13,Middle East and North Africa,Pakistan,Cosmetics,Offline,L,231145322,9892,437,263,4324782
+Aug-14,Sub-Saharan Africa,Cape Verde,Clothes,Offline,H,939825713,4168,109,36,455479
+Aug-15,North America,Mexico,Personal Care,Offline,M,559427106,5767,82,57,471337
+Aug-15,Sub-Saharan Africa,Republic of the Congo,Personal Care,Offline,M,770463311,6070,82,57,496101
+Dec-10,Europe,Romania,Cosmetics,Online,H,660643374,7910,437,263,3458252
+Dec-11,Asia,Malaysia,Fruits,Offline,L,810711038,6267,9,7,58471
+Dec-11,Middle East and North Africa,Syria,Fruits,Online,L,162052476,3784,9,7,35305
+Dec-14,North America,Mexico,Household,Offline,C,986435210,6954,668,503,4647150
+Dec-16,Asia,Sri Lanka,Cosmetics,Offline,M,419123971,6952,437,263,3039414
+Dec-16,Europe,Iceland,Cosmetics,Online,C,331438481,8867,437,263,3876652
+Dec-16,Middle East and North Africa,Iran,Cosmetics,Online,H,286959302,6489,437,263,2836991
+Dec-16,Sub-Saharan Africa,Sierra Leone,Office Supplies,Offline,H,621386563,948,651,525,617347
+Feb-10,Middle East and North Africa,Azerbaijan,Cosmetics,Online,M,382392299,7234,437,263,3162705
+Feb-12,Europe,Bulgaria,Office Supplies,Online,M,189965903,3987,651,525,2596374
+Feb-12,Europe,United Kingdom,Household,Online,L,955357205,282,668,503,188452
+Feb-12,Sub-Saharan Africa,Mozambique,Household,Offline,L,665095412,5367,668,503,3586605
+Feb-13,Sub-Saharan Africa,Rwanda,Office Supplies,Offline,L,115456712,5062,651,525,3296425
+Feb-14,Asia,Mongolia,Personal Care,Offline,C,832401311,4901,82,57,400559
+Feb-15,Australia and Oceania,Solomon Islands,Baby Food,Online,C,547995746,2974,255,159,759203
+Feb-17,Central America and the Caribbean,Honduras,Household,Offline,H,522840487,8974,668,503,5997055
+Feb-17,Sub-Saharan Africa,Djibouti,Snacks,Online,M,756274640,7327,153,97,1117954
+Jan-11,Asia,Turkmenistan,Household,Offline,L,441619336,3830,668,503,2559474
+Jan-11,Europe,Switzerland,Personal Care,Online,M,617667090,273,82,57,22312
+Jan-11,Sub-Saharan Africa,Sao Tome and Principe,Beverages,Offline,C,180283772,8829,47,32,418936
+Jan-11,Sub-Saharan Africa,Zambia,Snacks,Online,L,122583663,4085,153,97,623289
+Jan-12,Sub-Saharan Africa,Mauritania,Office Supplies,Offline,C,837559306,1266,651,525,824432
+Jan-12,Sub-Saharan Africa,Sierra Leone,Office Supplies,Offline,M,441888415,3457,651,525,2251233
+Jan-14,Sub-Saharan Africa,South Sudan,Personal Care,Offline,C,406502997,2125,82,57,173676
+Jan-17,Sub-Saharan Africa,The Gambia,Meat,Online,M,825304400,4767,422,365,2011150
+Jul-11,Asia,Kyrgyzstan,Vegetables,Online,H,814711606,124,154,91,19103
+Jul-11,Sub-Saharan Africa,Democratic Republic of the Congo,Beverages,Online,C,585920464,5741,47,32,272410
+Jul-12,Middle East and North Africa,Azerbaijan,Office Supplies,Online,M,423331391,2021,651,525,1316095
+Jul-12,Sub-Saharan Africa,Burkina Faso,Vegetables,Online,H,871543967,8082,154,91,1245113
+Jul-12,Sub-Saharan Africa,Gabon,Personal Care,Offline,L,228944623,8656,82,57,707455
+Jul-13,Australia and Oceania,Australia,Cereal,Offline,H,450563752,682,206,117,140287
+Jul-13,Europe,San Marino,Baby Food,Online,L,569662845,4750,255,159,1212580
+Jul-14,Australia and Oceania,Australia,Beverages,Offline,H,240470397,9389,47,32,445508
+Jul-14,Europe,Norway,Beverages,Offline,C,435608613,5124,47,32,243134
+Jul-14,Sub-Saharan Africa,Sao Tome and Principe,Fruits,Online,C,514321792,8102,9,7,75592
+Jul-16,Central America and the Caribbean,Honduras,Snacks,Online,L,795490682,2225,153,97,339491
+Jun-10,Australia and Oceania,Tuvalu,Baby Food,Offline,H,669165933,9925,255,159,2533654
+Jun-12,Europe,Bulgaria,Clothes,Online,M,972292029,1673,109,36,182825
+Jun-12,Europe,Monaco,Baby Food,Offline,H,688288152,8614,255,159,2198982
+Jun-12,Sub-Saharan Africa,Cote d'Ivoire,Clothes,Online,C,114606559,3482,109,36,380513
+Jun-12,Sub-Saharan Africa,The Gambia,Cereal,Offline,H,994022214,2117,206,117,435467
+Jun-12,Sub-Saharan Africa,The Gambia,Household,Offline,L,886494815,2370,668,503,1583800
+Jun-14,Europe,Norway,Baby Food,Online,L,819028031,7450,255,159,1901836
+Jun-16,Sub-Saharan Africa,Sierra Leone,Vegetables,Offline,C,728815257,1485,154,91,228779
+Jun-17,Europe,France,Cosmetics,Online,H,898523128,1815,437,263,793518
+Jun-17,Sub-Saharan Africa,Djibouti,Cereal,Online,H,555990016,8656,206,117,1780539
+Mar-10,Europe,Albania,Clothes,Online,C,385383069,2269,109,36,247956
+Mar-11,Central America and the Caribbean,Nicaragua,Beverages,Offline,C,963392674,8156,47,32,387002
+Mar-12,North America,Mexico,Personal Care,Offline,L,430915820,6422,82,57,524870
+Mar-13,Middle East and North Africa,Saudi Arabia,Cereal,Online,M,844530045,4063,206,117,835759
+Mar-14,Sub-Saharan Africa,The Gambia,Baby Food,Offline,M,494747245,5559,255,159,1419102
+Mar-15,Asia,Myanmar,Household,Offline,H,177713572,8250,668,503,5513228
+Mar-15,Europe,Austria,Cosmetics,Offline,H,868214595,2847,437,263,1244708
+Mar-17,Asia,Bangladesh,Clothes,Online,L,187310731,8263,109,36,902981
+Mar-17,Sub-Saharan Africa,Niger,Personal Care,Online,H,699285638,3015,82,57,246416
+May-10,Sub-Saharan Africa,Mali,Fruits,Online,L,686048400,5822,9,7,54319
+May-12,Asia,Brunei,Office Supplies,Online,L,320009267,6708,651,525,4368317
+May-12,Middle East and North Africa,Kuwait,Fruits,Online,M,513417565,522,9,7,4870
+May-13,Asia,Turkmenistan,Office Supplies,Online,M,462405812,5010,651,525,3262562
+May-14,Europe,Russia,Office Supplies,Offline,L,341417157,1779,651,525,1158503
+May-14,Sub-Saharan Africa,Senegal,Cereal,Online,H,616607081,6593,206,117,1356180
+May-15,Sub-Saharan Africa,Madagascar,Clothes,Offline,L,610425555,7342,109,36,802334
+May-16,Europe,Moldova ,Personal Care,Online,L,740147912,5070,82,57,414371
+May-17,Central America and the Caribbean,Costa Rica,Personal Care,Offline,L,456767165,6409,82,57,523808
+Nov-10,Europe,Lithuania,Office Supplies,Offline,H,166460740,8287,651,525,5396577
+Nov-10,Middle East and North Africa,Libya,Clothes,Offline,H,705784308,6116,109,36,668356
+Nov-11,Sub-Saharan Africa,Cameroon,Office Supplies,Online,M,177636754,5518,651,525,3593377
+Nov-12,Europe,Slovakia,Vegetables,Online,H,759224212,171,154,91,26344
+Nov-12,Europe,Spain,Household,Offline,L,213487374,4513,668,503,3015903
+Nov-13,Central America and the Caribbean,Haiti,Cosmetics,Offline,H,505716836,1705,437,263,745426
+Nov-13,Sub-Saharan Africa,Rwanda,Cosmetics,Offline,H,699358165,4477,437,263,1957344
+Nov-14,Australia and Oceania,Federated States of Micronesia,Beverages,Online,C,217221009,9379,47,32,445034
+Nov-14,Australia and Oceania,Kiribati,Fruits,Online,M,347140347,5398,9,7,50363
+Nov-14,Europe,Macedonia,Clothes,Offline,C,787399423,7842,109,36,856974
+Nov-15,Asia,Myanmar,Clothes,Online,H,223359620,5930,109,36,648030
+Nov-15,Australia and Oceania,Australia,Office Supplies,Online,C,158535134,2924,651,525,1904138
+Nov-16,Europe,Slovenia,Beverages,Offline,C,345718562,4660,47,32,221117
+Oct-11,Asia,Laos,Vegetables,Offline,C,789176547,3732,154,91,574952
+Oct-12,Europe,Switzerland,Cosmetics,Offline,M,249693334,8661,437,263,3786589
+Oct-12,Middle East and North Africa,Lebanon,Clothes,Online,L,663110148,7884,109,36,861564
+Oct-13,Sub-Saharan Africa,Sao Tome and Principe,Fruits,Offline,H,508980977,7637,9,7,71253
+Oct-14,Australia and Oceania,New Zealand,Fruits,Online,H,142278373,2187,9,7,20405
+Sep-11,Sub-Saharan Africa,Mali,Clothes,Online,M,512878119,888,109,36,97041
+Sep-12,Australia and Oceania,East Timor,Meat,Online,L,322067916,5908,422,365,2492526
+Sep-12,Central America and the Caribbean,Grenada,Cereal,Online,C,963881480,2804,206,117,576783
+Sep-13,Sub-Saharan Africa,Lesotho,Fruits,Online,L,918419539,9606,9,7,89624
+Sep-15,Europe,Portugal,Baby Food,Online,H,860673511,1273,255,159,324971
+Sep-15,Middle East and North Africa,Libya,Fruits,Online,L,816200339,673,9,7,6279
+Sep-16,Central America and the Caribbean,Belize,Clothes,Offline,M,807025039,5498,109,36,600821
+Grand Total,,,,,,,512871,27676,19105,137348768
